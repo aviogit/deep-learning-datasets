@@ -1,0 +1,136 @@
+{
+	"Records": [
+	{
+		"keywords": "bagel",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "chihuahua",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "chocolate",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "dalmatian",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "dog",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "duckling",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "friedchicken",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "guacamole",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "icecream",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "icecreamcone",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "kitten",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "labradoodle",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "marshmallow",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "mop",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "muffin",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "painauchocolat",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "parrot",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "plantain",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "sharpei",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "sheepdog",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "shiba",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	},
+	{
+		"keywords": "sloth",
+		"limit": 100,
+		"chromedriver": "/usr/lib/chromium-browser/chromedriver",
+		"print_urls": true
+	}
+]
+}
